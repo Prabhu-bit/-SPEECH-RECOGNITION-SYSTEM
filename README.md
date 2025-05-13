@@ -29,5 +29,8 @@ Overall, this project demonstrates a practical implementation of natural languag
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/45524108-34ec-47b6-a0c8-3c02f9fdee3d)
+
+![Image](https://github.com/user-attachments/assets/94848fde-7a6e-45fc-95ea-dd00bed6a537)
 
 
