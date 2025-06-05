@@ -1,20 +1,5 @@
 # SPEECH-RECOGNITION-SYSTEM
 
-COMPANY : CODTECH IT SOLUTIONS
-
-NAME : BASAVAPRABHU R HALAKATTI
-
-INTERN ID : CT04DL919
-
-DOMAIN : ARTIFICIAL INTELLIGENCE
-
-DURATION : 4 WEEKS
-
-MENTOR : NEELA SANTOSH
-
-
-#DESCRIPTION
-
 This project presents the development of a cloud-based audio transcription system that is capable of handling multiple audio file formats and automatically detecting the spoken language before converting it into accurate text. Designed to run in Google Colab using Python, this system allows users to upload audio files in formats such as .wav, .mp3, and .ogg, transcribe the content using Google's speech recognition API, and export the final results in a structured text file. The project combines several powerful open-source libraries including SpeechRecognition, pydub, ffmpeg, and langdetect to ensure smooth and reliable processing.
 
 The transcription process begins by allowing users to upload multiple audio files simultaneously. Many real-world audio datasets contain various formats, and to handle this, the project includes an automatic format conversion step. This is done using the pydub library, which converts any non-WAV files into mono-channel, 16kHz .wav format—optimized for speech recognition. This ensures compatibility and accuracy during the transcription phase.
